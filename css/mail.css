@@ -90,8 +90,11 @@ button.control {
 }
 
 .mail_account_email {
-	opacity: .5;
-	padding: 20px 0 10px 12px;
+	border-top: 1px solid #aaa;
+	box-shadow: 0 -7px 5px #ddd;
+	margin-top: 10px;
+	opacity: 0.5;
+	padding: 10px 0 10px 12px;
 }
 
 .mailaccount-list li {
